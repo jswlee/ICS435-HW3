@@ -1,1 +1,3 @@
 *.csv
+venv/
+HW3_copy.ipynb
