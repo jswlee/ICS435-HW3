@@ -1,3 +1,13 @@
 *.csv
 venv/
 HW3_copy.ipynb
+
+# Ignore tuning and model directories
+higgs_tuning/
+higgs_tuning_1/
+higgs_tuning_1_copy/
+new models/
+old models/
+
+# Ignore Jupyter Notebook checkpoints (if applicable)
+*.ipynb_checkpoints/
